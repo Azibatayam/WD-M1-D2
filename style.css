@@ -1,0 +1,60 @@
+.logo {
+    display:flex;
+    justify-content: center;
+    height: 40px;
+}
+.Post {
+    display:flex;
+    justify-content: center;
+    color: rgb(72, 132, 72);
+    background-color: rgb(247, 247, 226);
+    border-top: 1px solid rgb(244, 207, 137);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 7px;
+  
+}
+.strong {
+    font-weight: 900;
+    font-size: x-large;
+}
+.Ingredients {
+    display:flex;
+    justify-content: center;
+    font-size: large;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.Taste{
+    display:flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 7px;
+    margin-bottom: 5px;
+}
+
+.Photo{
+    display:flex;
+    justify-content: center;
+}
+
+.Image {
+    text-align: center;
+    font-size: 8px;
+    margin-top: 5px;
+   
+}
+
+.Feature{
+    padding-left: 270px;
+    font-size: 10px;
+    color: crimson;
+    
+}
+.Fresh{
+    padding-left: 270px;
+    text-decoration:underline;
+    font-size: 7px;
+    color:rgb(87, 120, 87);
+}
