@@ -24,6 +24,7 @@
     font-size: large;
     font-weight: 700;
     margin-top: 30px;
+    
 }
 
 .Taste{
@@ -41,20 +42,71 @@
 
 .Image {
     text-align: center;
-    font-size: 8px;
+    font-size: 6px;
     margin-top: 5px;
+    color: grey;
    
 }
 
 .Feature{
-    padding-left: 270px;
-    font-size: 10px;
+    padding-left: 250px;
+    font-size: 7px;
     color: crimson;
+    margin-top: 10px;
     
 }
 .Fresh{
-    padding-left: 270px;
+    padding-left: 250px;
     text-decoration:underline;
-    font-size: 7px;
+    font-size: 6px;
     color:rgb(87, 120, 87);
+}
+.line {
+    border-left: thick solid red ;
+    
+}
+
+.List{
+    padding-left: 248px;
+    padding-top: 30px;
+}
+.hr {
+    
+    color: rgb(29, 229, 162); 
+}
+.Focaccia {
+    padding-left: 248px;
+    font-size: 7px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.Menu{
+    padding-left: 267px;
+    font-size: 8px;
+    
+}
+.Topping {
+    padding-left: 248px;
+    font-size: 7px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.Toppings {
+    padding-left: 267px;
+    font-size: 8px;
+    
+}
+
+.Method {
+    font-size: small;
+    font-weight: 200;
+    padding-left: 248px;
+}
+.Dough {
+    text-align: center;
+}
+.Recipe{
+    text-align: center;
+
 }
