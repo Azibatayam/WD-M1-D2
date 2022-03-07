@@ -68,7 +68,7 @@
     color:rgb(13, 132, 118);
 }
 .line {
-    border-left: thick solid red ;
+    border-left: thin solid rgb(246, 175, 104) ;
     
 }
 
